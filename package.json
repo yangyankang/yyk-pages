@@ -19,6 +19,7 @@
   "directories": {
     "lib": "lib"
   },
+  "bin": "bin/yyk-pages.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zce/yyk-pages.git"
